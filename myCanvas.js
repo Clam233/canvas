@@ -49,4 +49,6 @@ window.onload = function () {
         context.arc(300,300,200,0,1.5*Math.PI,false);
         context.stroke();
     }
+    //你在这里做什么？
+    //世界上最遥远的距离不是生与死，而是对着空气说我爱你，我想你了！
 }
